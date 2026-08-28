@@ -6,6 +6,9 @@ This project analyzes retail sales data using Microsoft Excel to identify sales 
 
 The project demonstrates the process of taking raw sales data, cleaning and standardizing it, analyzing the data using PivotTables, and presenting insights through an interactive dashboard.
 
+## 📊 Dashboard
+![Retail Sales Dashboard](Screenshot 2026-08-27 182549.png)
+
 ## 🎯 Project Objectives
 
 - Clean and standardize retail sales data
